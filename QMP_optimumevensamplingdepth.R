@@ -1,6 +1,7 @@
 # Rarefaction to optimum even sampling depth #
 ##############################################
-# Contributers: Doris Vandeputte, Gunther Kathagen, Mireia Valles-Colomer
+# Concept: Gwen Falony, Gunter Kathagen
+# Contributers: Doris Vandeputte, Gunter Kathagen, Mireia Valles-Colomer
 # function rarefy_even_sampling_depth
 # with cnv_corrected_abundance_table: a copy number variation corrected abundance table with sample-identifiers as rows, copy number corrected taxa-abundances as columns
 # with cell_counts_table: a table with sample-identifiers as rows, cell counts as columns 
